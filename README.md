@@ -6,7 +6,7 @@ $pkg install git
 
 $pkg install python2
 
-$git clone https://github.com/DARK-NIKE/FULLDDOS
+$git clone https://github.com/Dark-Nike/FULLDDOS
 
 $cd FULLDDOS
 
